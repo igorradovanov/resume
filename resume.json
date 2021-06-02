@@ -1,0 +1,123 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "projects": "",
+    "awards": ""
+  },
+  "basics": {
+    "name": "Igor Radovanov",
+    "location": {
+      "address": "Belgrade, Republic of Serbia"
+    },
+    "email": "igor@radovanovigor.com",
+    "website": "radovanovigor.com"
+  },
+  "education": [
+    {
+      "area": "Information Technology",
+      "startDate": "2015",
+      "endDate": "2019",
+      "gpa": "",
+      "institution": "ITS – Information Technology School",
+      "location": "Belgrade, Republic of Serbia"
+    }
+  ],
+  "work": [
+    {
+      "highlights": [
+        " Delegating work and assignments to team members",
+        "Checking that software and applications are updated and stable",
+        "Supervising system modifications",
+        "Collaborating with team to identify and fix technical problems"
+      ],
+      "company": "GoDaddy",
+      "position": "Technical Website Builder Lead",
+      "location": "Belgrade, Republic of Serbia",
+      "startDate": "Apr 2021",
+      "endDate": "Present"
+    },
+    {
+      "highlights": [
+        "Assisting customers towards easier and faster usage of the company products",
+        "Maintaining custom-built functionalities of the internal systems",
+        "Scaling user sites to take advantage of the performance provided by Managed Hosting"
+      ],
+      "company": "GoDaddy",
+      "position": "Technical Website Builder III",
+      "location": "Belgrade, Republic of Serbia",
+      "startDate": "Aug 2020",
+      "endDate": "Apr 2021"
+    },
+    {
+      "company": "GoDaddy",
+      "location": "Belgrade, Republic of Serbia",
+      "website": "",
+      "endDate": "Aug 2020",
+      "highlights": [
+        "Resolving customer concerns efficiently and expeditiously",
+        "Helping users to navigate and use Managed WordPress Platform",
+        "Analyzing the bottlenecks and improving the speed and stability of hosted websites"
+      ],
+      "position": "Managed Services WordPress Expert",
+      "startDate": "Apr 2019"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "Javascript",
+        "Java EE",
+        "PHP",
+        "Bash"
+      ],
+      "name": "Programming Languages"
+    },
+    {
+      "keywords": [
+        "GatsbyJS",
+        "WordPress"
+      ],
+      "name": "Frameworks"
+    },
+    {
+      "keywords": [
+        "Jenkins",
+        "CircleCI",
+        "Jest",
+        "Cypress",
+        "Mocha",
+        "Docker",
+        "Kubernetes"
+      ],
+      "name": "Tools"
+    }
+  ],
+  "projects": [
+    {
+      "name": "",
+      "description": "",
+      "url": "",
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
